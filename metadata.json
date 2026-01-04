@@ -1,0 +1,5 @@
+{
+  "name": "React File Explorer",
+  "description": "A comprehensive file explorer application featuring folder navigation, file management, context menus, and multiple view modes.",
+  "requestFramePermissions": []
+}
